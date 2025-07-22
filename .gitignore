@@ -1,0 +1,35 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Coverage directories
+coverage/
+
+# IDEs & editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Optional: Debug output
+debug.log
+
+# Optional: local database dump files
+dump/
