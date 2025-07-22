@@ -123,14 +123,6 @@ curl -X DELETE http://localhost:3000/posts/<id>
 
 ---
 
-## ✅ Requirements Checklist
-
--
-
-> ✅ All requirements have been met.
-
----
-
 ## 🐞 Error Handling & Logging
 
 - All async routes are wrapped using a central `asyncHandler`
