@@ -133,6 +133,12 @@ curl -X DELETE http://localhost:3000/posts/<id>
 
 ---
 
+## 🚀 Project Page
+
+View the project on [roadmap.sh](https://roadmap.sh/projects/blogging-platform-api)
+
+---
+
 ## 📄 License
 
 MIT
